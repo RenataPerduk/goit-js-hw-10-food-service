@@ -1,6 +1,6 @@
 const refs = {
     body: document.querySelector('body'),
-    switch: document.querySelector('.js-switch-input'),
+    switch: document.querySelector('.theme-switch__toggle'),
 };
 
 const Theme = {
